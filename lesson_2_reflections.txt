@@ -13,3 +13,5 @@ Ex: 1.If you want to add differences level to the game
 -Branches will help us save time, and won't break the whole original code system.
 -Ability to switch!
 
+How do the diagrams help you visualize the branch structure?
+-Easier to understand how branches work and help us!
