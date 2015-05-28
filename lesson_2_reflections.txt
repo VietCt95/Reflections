@@ -15,3 +15,7 @@ Ex: 1.If you want to add differences level to the game
 
 How do the diagrams help you visualize the branch structure?
 -Easier to understand how branches work and help us!
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+-It gives a combination to two version
+ 
